@@ -13,3 +13,10 @@ Moveit é uma plataforma para auxiliar quem passa muito tempo na frente do compu
   <li>NPM: <code>npm install</code></li>
   <li>Yarn: <code>yarn install</code></li>
 </ul>
+
+Tecnologias utilizadas:
+<ul>
+  <li>Typescript</li>
+  <li>NextJS</li>
+  <li>JS-Cookie</li>
+</ul>
